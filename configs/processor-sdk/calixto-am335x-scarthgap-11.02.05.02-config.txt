@@ -12,7 +12,7 @@ meta-ti,https://git.yoctoproject.org/meta-ti,scarthgap,11.02.05,layers=meta-ti-e
 meta-arm,https://git.yoctoproject.org/meta-arm,scarthgap,a81c19915b5b9e71ed394032e9a50fd06919e1cd,layers=meta-arm:meta-arm-toolchain
 meta-clang,https://github.com/kraj/meta-clang,scarthgap,731488911f55ebfe746068512b426351192f82f2,layers=
 oe-core,https://git.openembedded.org/openembedded-core,scarthgap,06d4981313ce67a8d53b1c14be9845b4b5a9f4cf,layers=meta
-meta-calixto-ti,https://github.com/anandhus-calixto/meta-calixto-ti.git,scarthgap,e3e3b117995d31a07d6982a58c818c2a2c91fb59,layers=
+meta-calixto-ti,https://github.com/anandhus-calixto/meta-calixto-ti.git,scarthgap,d18eb013690c20e32eaae196f6e033709326b8d4,layers=
 
 OECORELAYERCONF=./sample-files/bblayers.conf.sample
 OECORELOCALCONF=./sample-files/local-arago64-v2.conf.sample
